@@ -4,7 +4,7 @@
 <div>
   <ul>
     <li>📚 Currently a Computer Science Undergraduate Student at City University of HongKong</li>
-    <li>🪴 Currently learning tailwind and react JS</li>
+    <li>🪴 Currently learning GO & ThreeJS</li>
     <li>📌 Based in HongKong and Indonesia</li>
     <li>📷 Amateur photographer and graphics designer</li>
   </ul>
