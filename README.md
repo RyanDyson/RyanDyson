@@ -1,3 +1,3 @@
-<p>Why write native code when you can write everything in React?</p>
+<p>DevOps | Quant-Finance | Machine Learning</p>
 
-<a href="https://www.verflight.works">go here to see my React addiction</a>
+<a href="https://www.verflight.works">website</a>
